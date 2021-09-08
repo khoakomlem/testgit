@@ -1,3 +1,6 @@
 [submodule "lvl1"]
 	path = lvl1
 	url = ./lvl1
+[submodule "test/kb2abot-games-masoi"]
+	path = test/kb2abot-games-masoi
+	url = ./test/kb2abot-games-masoi
