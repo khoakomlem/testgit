@@ -1,0 +1,3 @@
+[submodule "lvl1"]
+	path = lvl1
+	url = ./lvl1
