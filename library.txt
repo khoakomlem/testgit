@@ -1,0 +1,2 @@
+// i need this func to work feature A
+func newA() {}
