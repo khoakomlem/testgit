@@ -1,2 +1,2 @@
-//update library just for me
-func newB() {}
+// i need this func to work feature A
+func newA() {}
