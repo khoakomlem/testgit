@@ -1,0 +1,2 @@
+//update library just for me
+func newB() {}
